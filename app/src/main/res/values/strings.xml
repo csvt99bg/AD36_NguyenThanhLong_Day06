@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AD36_NguyenThanhLong_Day06</string>
+
+    <string name="tvNameCity">Name City</string>
+    <string name="tvWeather">Weather</string>
+    <string name="tvTemp">Temp</string>
+    <string name="tvMIN">Temp Min</string>
+    <string name="tvMax">Temp Max</string>
+    <string name="tvHumidity">Humidity</string>
+    <string name="tvPressure">Pressure</string>
+</resources>
